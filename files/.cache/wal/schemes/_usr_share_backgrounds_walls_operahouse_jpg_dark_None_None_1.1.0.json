@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/operahouse.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0306",
+        "foreground": "#c7aed2",
+        "cursor": "#c7aed2"
+    },
+    "colors": {
+        "color0": "#0a0306",
+        "color1": "#BD4C46",
+        "color2": "#9A4B66",
+        "color3": "#FDA627",
+        "color4": "#5A3F82",
+        "color5": "#5C57A7",
+        "color6": "#6568CF",
+        "color7": "#c7aed2",
+        "color8": "#8b7993",
+        "color9": "#BD4C46",
+        "color10": "#9A4B66",
+        "color11": "#FDA627",
+        "color12": "#5A3F82",
+        "color13": "#5C57A7",
+        "color14": "#6568CF",
+        "color15": "#c7aed2"
+    }
+}

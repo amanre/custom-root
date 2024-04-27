@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/citylights.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0C12",
+        "foreground": "#dac4bf",
+        "cursor": "#dac4bf"
+    },
+    "colors": {
+        "color0": "#0B0C12",
+        "color1": "#944B44",
+        "color2": "#8E4757",
+        "color3": "#AE4F58",
+        "color4": "#A2615D",
+        "color5": "#E05B5B",
+        "color6": "#E0B771",
+        "color7": "#dac4bf",
+        "color8": "#988985",
+        "color9": "#944B44",
+        "color10": "#8E4757",
+        "color11": "#AE4F58",
+        "color12": "#A2615D",
+        "color13": "#E05B5B",
+        "color14": "#E0B771",
+        "color15": "#dac4bf"
+    }
+}

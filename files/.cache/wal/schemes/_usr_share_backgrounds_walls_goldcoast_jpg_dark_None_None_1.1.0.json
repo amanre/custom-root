@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/goldcoast.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090908",
+        "foreground": "#f6daa9",
+        "cursor": "#f6daa9"
+    },
+    "colors": {
+        "color0": "#090908",
+        "color1": "#B16B3B",
+        "color2": "#F07621",
+        "color3": "#9B6F4E",
+        "color4": "#FC9425",
+        "color5": "#B0885F",
+        "color6": "#EAA251",
+        "color7": "#f6daa9",
+        "color8": "#ac9876",
+        "color9": "#B16B3B",
+        "color10": "#F07621",
+        "color11": "#9B6F4E",
+        "color12": "#FC9425",
+        "color13": "#B0885F",
+        "color14": "#EAA251",
+        "color15": "#f6daa9"
+    }
+}

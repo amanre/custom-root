@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/CyberVR.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A1F3C",
+        "foreground": "#d5d1e7",
+        "cursor": "#d5d1e7"
+    },
+    "colors": {
+        "color0": "#0A1F3C",
+        "color1": "#6160A0",
+        "color2": "#A55CD5",
+        "color3": "#0B89B6",
+        "color4": "#0FA2D0",
+        "color5": "#60B8DB",
+        "color6": "#09D6EA",
+        "color7": "#d5d1e7",
+        "color8": "#9592a1",
+        "color9": "#6160A0",
+        "color10": "#A55CD5",
+        "color11": "#0B89B6",
+        "color12": "#0FA2D0",
+        "color13": "#60B8DB",
+        "color14": "#09D6EA",
+        "color15": "#d5d1e7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/delicate.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121739",
+        "foreground": "#c2daf4",
+        "cursor": "#c2daf4"
+    },
+    "colors": {
+        "color0": "#121739",
+        "color1": "#6C97EA",
+        "color2": "#76AAF5",
+        "color3": "#B6B0BC",
+        "color4": "#9EADD9",
+        "color5": "#8EB5F0",
+        "color6": "#B7C6DA",
+        "color7": "#c2daf4",
+        "color8": "#8798aa",
+        "color9": "#6C97EA",
+        "color10": "#76AAF5",
+        "color11": "#B6B0BC",
+        "color12": "#9EADD9",
+        "color13": "#8EB5F0",
+        "color14": "#B7C6DA",
+        "color15": "#c2daf4"
+    }
+}

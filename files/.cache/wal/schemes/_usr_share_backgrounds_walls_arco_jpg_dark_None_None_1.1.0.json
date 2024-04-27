@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/arco.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#121518",
+        "foreground": "#bcbecb",
+        "cursor": "#bcbecb"
+    },
+    "colors": {
+        "color0": "#121518",
+        "color1": "#606482",
+        "color2": "#646986",
+        "color3": "#9274C0",
+        "color4": "#7C809D",
+        "color5": "#7F83A0",
+        "color6": "#80849E",
+        "color7": "#bcbecb",
+        "color8": "#83858e",
+        "color9": "#606482",
+        "color10": "#646986",
+        "color11": "#9274C0",
+        "color12": "#7C809D",
+        "color13": "#7F83A0",
+        "color14": "#80849E",
+        "color15": "#bcbecb"
+    }
+}

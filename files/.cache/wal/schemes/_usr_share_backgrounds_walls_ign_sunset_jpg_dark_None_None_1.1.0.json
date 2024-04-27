@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/ign_sunset.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101621",
+        "foreground": "#e7d2b9",
+        "cursor": "#e7d2b9"
+    },
+    "colors": {
+        "color0": "#101621",
+        "color1": "#8B515C",
+        "color2": "#A4646A",
+        "color3": "#C6746E",
+        "color4": "#AB8D71",
+        "color5": "#D59777",
+        "color6": "#87728B",
+        "color7": "#e7d2b9",
+        "color8": "#a19381",
+        "color9": "#8B515C",
+        "color10": "#A4646A",
+        "color11": "#C6746E",
+        "color12": "#AB8D71",
+        "color13": "#D59777",
+        "color14": "#87728B",
+        "color15": "#e7d2b9"
+    }
+}

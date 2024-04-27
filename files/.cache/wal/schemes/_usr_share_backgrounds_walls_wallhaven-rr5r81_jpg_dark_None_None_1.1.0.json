@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/wallhaven-rr5r81.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0E0817",
+        "foreground": "#b4b9c2",
+        "cursor": "#b4b9c2"
+    },
+    "colors": {
+        "color0": "#0E0817",
+        "color1": "#493B4E",
+        "color2": "#575568",
+        "color3": "#AA5337",
+        "color4": "#A6553E",
+        "color5": "#D19151",
+        "color6": "#687088",
+        "color7": "#b4b9c2",
+        "color8": "#7d8187",
+        "color9": "#493B4E",
+        "color10": "#575568",
+        "color11": "#AA5337",
+        "color12": "#A6553E",
+        "color13": "#D19151",
+        "color14": "#687088",
+        "color15": "#b4b9c2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/biker.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020101",
+        "foreground": "#f3c08c",
+        "cursor": "#f3c08c"
+    },
+    "colors": {
+        "color0": "#020101",
+        "color1": "#AA392A",
+        "color2": "#B04835",
+        "color3": "#CF5032",
+        "color4": "#EB662E",
+        "color5": "#9E524F",
+        "color6": "#D1624E",
+        "color7": "#f3c08c",
+        "color8": "#aa8662",
+        "color9": "#AA392A",
+        "color10": "#B04835",
+        "color11": "#CF5032",
+        "color12": "#EB662E",
+        "color13": "#9E524F",
+        "color14": "#D1624E",
+        "color15": "#f3c08c"
+    }
+}

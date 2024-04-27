@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/walls/Biohazard.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D1516",
+        "foreground": "#e6e1d1",
+        "cursor": "#e6e1d1"
+    },
+    "colors": {
+        "color0": "#0D1516",
+        "color1": "#235C5C",
+        "color2": "#536861",
+        "color3": "#D37037",
+        "color4": "#C59566",
+        "color5": "#498780",
+        "color6": "#F2D69D",
+        "color7": "#e6e1d1",
+        "color8": "#a19d92",
+        "color9": "#235C5C",
+        "color10": "#536861",
+        "color11": "#D37037",
+        "color12": "#C59566",
+        "color13": "#498780",
+        "color14": "#F2D69D",
+        "color15": "#e6e1d1"
+    }
+}

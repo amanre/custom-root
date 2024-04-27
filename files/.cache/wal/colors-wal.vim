@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/usr/share/backgrounds/walls/pinkfloyed.jpg"
+let background = "#0a0a0a"
+let foreground = "#e3e3e4"
+let cursor     = "#e3e3e4"
+
+" Colors
+let color0  = "#0a0a0a"
+let color1  = "#F09828"
+let color2  = "#FBFA03"
+let color3  = "#8A4996"
+let color4  = "#1CBFE5"
+let color5  = "#9E9FA0"
+let color6  = "#CAC4B1"
+let color7  = "#e3e3e4"
+let color8  = "#9e9e9f"
+let color9  = "#F09828"
+let color10 = "#FBFA03"
+let color11 = "#8A4996"
+let color12 = "#1CBFE5"
+let color13 = "#9E9FA0"
+let color14 = "#CAC4B1"
+let color15 = "#e3e3e4"
