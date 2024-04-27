@@ -1,7 +1,7 @@
 
 pkgname=custom-root-git
 pkgver=24.05
-pkgrel=01
+pkgrel=02
 pkgdesc="root-configs "
 arch=('any')
 license=('GPL3')
