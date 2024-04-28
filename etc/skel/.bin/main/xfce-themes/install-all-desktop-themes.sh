@@ -44,6 +44,7 @@ sudo pacman -S pinkfloyed-xfce-theme --noconfirm
 sudo pacman -S flowers-xfce-theme --noconfirm
 sudo pacman -S technology-xfce-theme --noconfirm
 sudo pacman -S fractal-xfce-theme --noconfirm
+sudo pacman -S moonlight-xfce-theme --noconfirm
 echo
 tput setaf 2
 echo "################################################################"
