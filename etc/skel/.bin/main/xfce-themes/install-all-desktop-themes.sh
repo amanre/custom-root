@@ -41,6 +41,8 @@ sudo pacman -S tokionight-xfce-theme --noconfirm
 sudo pacman -S urbanangel-xfce-theme --noconfirm
 sudo pacman -S view-xfce-theme --noconfirm
 sudo pacman -S pinkfloyed-xfce-theme --noconfirm
+sudo pacman -S flowers-xfce-theme --noconfirm
+sudo pacman -S technology-xfce-theme --noconfirm
 
 echo
 tput setaf 2
